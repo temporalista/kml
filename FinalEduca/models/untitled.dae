@@ -5929,25 +5929,25 @@
     </library_effects>
     <library_images>
         <image id="ID33">
-            <init_from>untitled/texture.png</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture.png</init_from>
         </image>
         <image id="ID58">
-            <init_from>untitled/texture_0.png</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_0.png</init_from>
         </image>
         <image id="ID77">
-            <init_from>untitled/texture_1.jpg</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_1.jpg</init_from>
         </image>
         <image id="ID168">
-            <init_from>untitled/texture_2.png</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_2.png</init_from>
         </image>
         <image id="ID369">
-            <init_from>untitled/texture_3.png</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_3.png</init_from>
         </image>
         <image id="ID778">
-            <init_from>untitled/texture_4.png</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_4.png</init_from>
         </image>
         <image id="ID825">
-            <init_from>untitled/texture_5.jpg</init_from>
+            <init_from>https://github.com/temporalista/kml/tree/master/FinalEduca/models/untitled/texture_5.jpg</init_from>
         </image>
     </library_images>
     <scene>
